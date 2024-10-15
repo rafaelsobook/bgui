@@ -1,5 +1,5 @@
 {
-  "name": "@rafso/bgui",
+  "name": "bgui",
   "version": "1.0.0",
   "description": "A babylonjs GUI Tool",
   "main": "index.js",
